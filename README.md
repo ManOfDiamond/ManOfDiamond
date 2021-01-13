@@ -1,4 +1,4 @@
-<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey world, it's me, [![ManOfDiamond](https://github.com/ManOfDiamond).</h2>
+<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey world, it's me, ManOfDiamond.</h2>
 
 [![ManOfDiamond's Github Stats](https://github-readme-stats.vercel.app/api?username=ManOfDiamond)](https://github.com/ManOfDiamond)
 
